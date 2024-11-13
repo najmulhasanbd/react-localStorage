@@ -1,0 +1,13 @@
+.cartBottol img {
+    width: 100px;
+    height: 100px;
+    object-fit: fill;
+}
+
+.cartBottol {
+    display: grid;
+}
+.cartBottol {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+}
